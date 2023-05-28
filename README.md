@@ -1,5 +1,5 @@
 # dictionary-app-android
-A dictionary application built in Android Studio with features on both front and back ends. 
+A dictionary application built in Android Studio with Java in both front and backend. 
 
 Features such as 
 1. Fragments
