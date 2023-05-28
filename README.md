@@ -2,10 +2,10 @@
 A dictionary application built in Android Studio with features on both front and back ends. 
 
 Features such as 
-Fragments
-Adapters
-Views
-Bind
-Collections
-Room ORM
-Database
+1. Fragments
+2. Adapters
+3. Views
+4. Bind
+5. Collections
+6. Room ORM
+7. Database
